@@ -27,6 +27,8 @@ This project is developed by a dedicated team with deep roots in the community:
 
 
 ![image](https://github.com/user-attachments/assets/3d51c322-67e1-4c37-9a84-2da061d52fce)
+![image](https://github.com/user-attachments/assets/75fa4878-cf47-4c31-9e51-cffc689e3331)
+![image](https://github.com/user-attachments/assets/690e5b75-942f-4d73-81c8-e8dd73511bde)
 
 
 
