@@ -20,9 +20,9 @@ This project is developed by a dedicated team with deep roots in the community:
 
 ## Tech Stack
 
-- **Frontend**: [Your frontend technology, e.g., Flutter, React Native]
-- **Backend**: [Your backend technology, e.g., Node.js, Firebase]
-- **Database**: [Your database, e.g., Firebase Firestore, MySQL]
+- **Frontend**: [Flutter, Java]
+- **Backend**: [Firebase]
+- **Database**: [Firebase Firestore, MySQL]
 - **APIs**: Integrations for real-time location tracking and order management.
 
 
